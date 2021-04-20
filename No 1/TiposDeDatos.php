@@ -18,6 +18,3 @@ echo "Tipo booleano true: " . $booleano ."<br>";
 print_r($arreglo);
 echo"<br>El valor 0 del arreglo es: " . $arreglo[0];
 echo "<br>Valor nulo: " . $nulo ."<br>";
-
-
-?>
